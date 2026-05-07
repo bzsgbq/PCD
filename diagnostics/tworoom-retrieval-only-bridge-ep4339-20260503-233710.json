@@ -1,0 +1,63 @@
+{
+  "task": "tworoom",
+  "episode": 4339,
+  "start": 22,
+  "mode": "bridge",
+  "top_k_to_try": 10,
+  "exclude_eval_ep": true,
+  "results": [
+    {
+      "ci": 0,
+      "success": true,
+      "steps": 36
+    },
+    {
+      "ci": 1,
+      "success": true,
+      "steps": 11
+    },
+    {
+      "ci": 2,
+      "success": false,
+      "steps": 50
+    },
+    {
+      "ci": 3,
+      "success": true,
+      "steps": 23
+    },
+    {
+      "ci": 4,
+      "success": true,
+      "steps": 14
+    },
+    {
+      "ci": 5,
+      "success": true,
+      "steps": 32
+    },
+    {
+      "ci": 6,
+      "success": false,
+      "steps": 50
+    },
+    {
+      "ci": 7,
+      "success": false,
+      "steps": 50
+    },
+    {
+      "ci": 8,
+      "success": false,
+      "steps": 50
+    },
+    {
+      "ci": 9,
+      "success": false,
+      "steps": 50
+    }
+  ],
+  "n_success": 5,
+  "best_of_k_success": true,
+  "any_success_rate_pct": 50.0
+}

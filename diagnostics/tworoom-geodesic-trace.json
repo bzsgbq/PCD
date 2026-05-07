@@ -1,0 +1,11 @@
+[
+  {
+    "delta_geo": -20.47340000000004,
+    "delta_eucl": -25.457936031230588,
+    "start_geo": 71.52659999999996,
+    "end_geo": 92.0,
+    "cell": "A5",
+    "episode_idx": 4339,
+    "success": false
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "task": "tworoom",
+  "episode": 905,
+  "start": 19,
+  "cell": "A5",
+  "mode": "bridge",
+  "n_bridges": 10,
+  "n_db_episodes": 200,
+  "n_db_chunks": 1813,
+  "results": [
+    {
+      "seed": 1,
+      "success": true,
+      "wall_s": 297.7713203430176
+    },
+    {
+      "seed": 2,
+      "success": true,
+      "wall_s": 329.7853982448578
+    },
+    {
+      "seed": 3,
+      "success": true,
+      "wall_s": 319.2135512828827
+    },
+    {
+      "seed": 4,
+      "success": true,
+      "wall_s": 257.5951073169708
+    },
+    {
+      "seed": 5,
+      "success": true,
+      "wall_s": 259.8133497238159
+    }
+  ],
+  "success_rate_pct": 100.0
+}

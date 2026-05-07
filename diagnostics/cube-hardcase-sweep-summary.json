@@ -1,0 +1,258 @@
+{
+  "experiment": "Cube hard-case paired solver-seed sweep (Codex 106)",
+  "config": "--solver_batch_size 1 num_eval=1 (single-env per call); 5 paired solver seeds per (episode, cell)",
+  "episodes": {
+    "11_ep2767_start101": {
+      "A0": {
+        "k": 0,
+        "n": 5,
+        "rate_pct": 0.0,
+        "seeds": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "wall_s_per_seed": [
+          7.8,
+          7.9,
+          7.3,
+          7.4,
+          8.0
+        ],
+        "source": "cube-seed-sweep-ep2767-n300-20260506-091428.json"
+      },
+      "A2_H10": {
+        "k": 0,
+        "n": 5,
+        "rate_pct": 0.0,
+        "seeds": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "wall_s_per_seed": [
+          39.4,
+          41.8,
+          39.1,
+          37.8,
+          36.9
+        ],
+        "source": "cube-seed-sweep-ep2767-n300-20260506-091705.json"
+      },
+      "A4": {
+        "k": 0,
+        "n": 5,
+        "rate_pct": 0.0,
+        "seeds": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "wall_s_per_seed": [
+          35.5,
+          35.0,
+          35.4,
+          35.0,
+          33.3
+        ],
+        "source": "cube-seed-sweep-ep2767-n300-20260506-091644.json"
+      },
+      "A5": {
+        "k": 0,
+        "n": 5,
+        "rate_pct": 0.0,
+        "seeds": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "wall_s_per_seed": [
+          38.2,
+          39.4,
+          39.6,
+          38.8,
+          37.0
+        ],
+        "source": "cube-seed-sweep-ep2767-n300-20260506-091703.json"
+      }
+    },
+    "17_ep4434_start15": {
+      "A0": {
+        "k": 0,
+        "n": 5,
+        "rate_pct": 0.0,
+        "seeds": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "wall_s_per_seed": [
+          8.6,
+          7.9,
+          7.9,
+          7.6,
+          7.5
+        ],
+        "source": "cube-seed-sweep-ep4434-n300-20260506-091520.json"
+      },
+      "A2_H10": {
+        "k": 0,
+        "n": 5,
+        "rate_pct": 0.0,
+        "seeds": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "wall_s_per_seed": [
+          44.2,
+          42.1,
+          43.1,
+          42.4,
+          41.6
+        ],
+        "source": "cube-seed-sweep-ep4434-n300-20260506-092049.json"
+      },
+      "A4": {
+        "k": 0,
+        "n": 5,
+        "rate_pct": 0.0,
+        "seeds": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "wall_s_per_seed": [
+          34.2,
+          34.7,
+          34.0,
+          33.7,
+          34.8
+        ],
+        "source": "cube-seed-sweep-ep4434-n300-20260506-091947.json"
+      },
+      "A5": {
+        "k": 0,
+        "n": 5,
+        "rate_pct": 0.0,
+        "seeds": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "wall_s_per_seed": [
+          36.9,
+          34.3,
+          34.3,
+          33.7,
+          33.8
+        ],
+        "source": "cube-seed-sweep-ep4434-n300-20260506-092007.json"
+      }
+    },
+    "38_ep7815_start98": {
+      "A0": {
+        "k": 0,
+        "n": 5,
+        "rate_pct": 0.0,
+        "seeds": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "wall_s_per_seed": [
+          8.5,
+          7.6,
+          7.7,
+          7.7,
+          7.7
+        ],
+        "source": "cube-seed-sweep-ep7815-n300-20260506-091611.json"
+      },
+      "A2_H10": {
+        "k": 0,
+        "n": 5,
+        "rate_pct": 0.0,
+        "seeds": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "wall_s_per_seed": [
+          42.9,
+          41.8,
+          41.6,
+          37.0,
+          37.1
+        ],
+        "source": "cube-seed-sweep-ep7815-n300-20260506-092420.json"
+      },
+      "A4": {
+        "k": 0,
+        "n": 5,
+        "rate_pct": 0.0,
+        "seeds": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "wall_s_per_seed": [
+          33.8,
+          33.4,
+          34.0,
+          34.4,
+          34.9
+        ],
+        "source": "cube-seed-sweep-ep7815-n300-20260506-092249.json"
+      },
+      "A5": {
+        "k": 0,
+        "n": 5,
+        "rate_pct": 0.0,
+        "seeds": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "wall_s_per_seed": [
+          37.1,
+          33.4,
+          34.0,
+          33.3,
+          33.8
+        ],
+        "source": "cube-seed-sweep-ep7815-n300-20260506-092310.json"
+      }
+    }
+  },
+  "summary": {
+    "total_successes": 0,
+    "total_trials": 60,
+    "interpretation": "All 3 cube hard-case episodes are planner-frontier-resistant under tested generic planner stack (A0, A4, A5, A2_H10 at published budget N=300) across 5 paired solver seeds each. 0/60 successes total."
+  },
+  "timestamp": "20260506-092546"
+}

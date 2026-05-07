@@ -1,0 +1,122 @@
+{
+  "task": "tworoom",
+  "num": 16,
+  "episodes_idx": [
+    872,
+    905,
+    953,
+    2019,
+    4339,
+    4398,
+    5272,
+    6552,
+    6989,
+    7189,
+    7371,
+    7627,
+    7751,
+    7874,
+    8601,
+    9758
+  ],
+  "start_steps": [
+    28,
+    19,
+    20,
+    42,
+    22,
+    67,
+    51,
+    63,
+    20,
+    40,
+    7,
+    74,
+    54,
+    26,
+    68,
+    27
+  ],
+  "results": [
+    {
+      "ep": 872,
+      "start": 28,
+      "error": "Given groups=1, weight of size [10, 10, 1], expected input[1, 2, 1] to have 10 channels, but got 2 channels instead"
+    },
+    {
+      "ep": 905,
+      "start": 19,
+      "error": "Given groups=1, weight of size [10, 10, 1], expected input[1, 2, 1] to have 10 channels, but got 2 channels instead"
+    },
+    {
+      "ep": 953,
+      "start": 20,
+      "error": "Given groups=1, weight of size [10, 10, 1], expected input[1, 2, 1] to have 10 channels, but got 2 channels instead"
+    },
+    {
+      "ep": 2019,
+      "start": 42,
+      "error": "Given groups=1, weight of size [10, 10, 1], expected input[1, 2, 1] to have 10 channels, but got 2 channels instead"
+    },
+    {
+      "ep": 4339,
+      "start": 22,
+      "error": "Given groups=1, weight of size [10, 10, 1], expected input[1, 2, 1] to have 10 channels, but got 2 channels instead"
+    },
+    {
+      "ep": 4398,
+      "start": 67,
+      "error": "Given groups=1, weight of size [10, 10, 1], expected input[1, 2, 1] to have 10 channels, but got 2 channels instead"
+    },
+    {
+      "ep": 5272,
+      "start": 51,
+      "error": "Given groups=1, weight of size [10, 10, 1], expected input[1, 2, 1] to have 10 channels, but got 2 channels instead"
+    },
+    {
+      "ep": 6552,
+      "start": 63,
+      "error": "Given groups=1, weight of size [10, 10, 1], expected input[1, 2, 1] to have 10 channels, but got 2 channels instead"
+    },
+    {
+      "ep": 6989,
+      "start": 20,
+      "error": "Given groups=1, weight of size [10, 10, 1], expected input[1, 2, 1] to have 10 channels, but got 2 channels instead"
+    },
+    {
+      "ep": 7189,
+      "start": 40,
+      "error": "Given groups=1, weight of size [10, 10, 1], expected input[1, 2, 1] to have 10 channels, but got 2 channels instead"
+    },
+    {
+      "ep": 7371,
+      "start": 7,
+      "error": "Given groups=1, weight of size [10, 10, 1], expected input[1, 2, 1] to have 10 channels, but got 2 channels instead"
+    },
+    {
+      "ep": 7627,
+      "start": 74,
+      "error": "Given groups=1, weight of size [10, 10, 1], expected input[1, 2, 1] to have 10 channels, but got 2 channels instead"
+    },
+    {
+      "ep": 7751,
+      "start": 54,
+      "error": "Given groups=1, weight of size [10, 10, 1], expected input[1, 2, 1] to have 10 channels, but got 2 channels instead"
+    },
+    {
+      "ep": 7874,
+      "start": 26,
+      "error": "Given groups=1, weight of size [10, 10, 1], expected input[1, 2, 1] to have 10 channels, but got 2 channels instead"
+    },
+    {
+      "ep": 8601,
+      "start": 68,
+      "error": "Given groups=1, weight of size [10, 10, 1], expected input[1, 2, 1] to have 10 channels, but got 2 channels instead"
+    },
+    {
+      "ep": 9758,
+      "start": 27,
+      "error": "Given groups=1, weight of size [10, 10, 1], expected input[1, 2, 1] to have 10 channels, but got 2 channels instead"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "task": "tworoom",
+  "episode": 4339,
+  "start": 22,
+  "cell": "A5",
+  "cost_variant": "cumulative",
+  "q_ckpt": "phase1/two_room_planner_ablation/q_psi/q_psi_v2_tworoom_20260503-181349.pt",
+  "results": [
+    {
+      "seed": 1,
+      "success": false,
+      "wall_s": 193.83992290496826
+    },
+    {
+      "seed": 2,
+      "success": false,
+      "wall_s": 148.798588514328
+    },
+    {
+      "seed": 3,
+      "success": false,
+      "wall_s": 124.90623879432678
+    },
+    {
+      "seed": 4,
+      "success": false,
+      "wall_s": 132.94006848335266
+    },
+    {
+      "seed": 5,
+      "success": false,
+      "wall_s": 132.92192697525024
+    },
+    {
+      "seed": 6,
+      "success": false,
+      "wall_s": 147.41775488853455
+    },
+    {
+      "seed": 7,
+      "success": false,
+      "wall_s": 149.29895853996277
+    },
+    {
+      "seed": 8,
+      "success": false,
+      "wall_s": 155.4578573703766
+    },
+    {
+      "seed": 9,
+      "success": false,
+      "wall_s": 157.15243101119995
+    },
+    {
+      "seed": 10,
+      "success": false,
+      "wall_s": 147.3454999923706
+    }
+  ],
+  "success_count": 0,
+  "success_rate_pct": 0.0
+}

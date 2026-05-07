@@ -1,0 +1,43 @@
+{
+  "task": "cube",
+  "episode": 4434,
+  "start": 15,
+  "cell": "A2_H10",
+  "num_samples": 300,
+  "seeds": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "results": [
+    {
+      "seed": 1,
+      "success": false,
+      "wall_s": 44.16006517410278
+    },
+    {
+      "seed": 2,
+      "success": false,
+      "wall_s": 42.06540846824646
+    },
+    {
+      "seed": 3,
+      "success": false,
+      "wall_s": 43.06234121322632
+    },
+    {
+      "seed": 4,
+      "success": false,
+      "wall_s": 42.425416469573975
+    },
+    {
+      "seed": 5,
+      "success": false,
+      "wall_s": 41.58271265029907
+    }
+  ],
+  "success_count": 0,
+  "success_rate_pct": 0.0
+}

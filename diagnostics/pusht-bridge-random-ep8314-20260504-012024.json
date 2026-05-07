@@ -1,0 +1,38 @@
+{
+  "task": "pusht",
+  "episode": 8314,
+  "start": 3,
+  "cell": "A5",
+  "mode": "random",
+  "n_bridges": 10,
+  "n_db_episodes": 200,
+  "n_db_chunks": 3082,
+  "results": [
+    {
+      "seed": 1,
+      "success": false,
+      "wall_s": 105.58812689781189
+    },
+    {
+      "seed": 2,
+      "success": true,
+      "wall_s": 142.61905121803284
+    },
+    {
+      "seed": 3,
+      "success": false,
+      "wall_s": 132.81480646133423
+    },
+    {
+      "seed": 4,
+      "success": false,
+      "wall_s": 116.03056955337524
+    },
+    {
+      "seed": 5,
+      "success": false,
+      "wall_s": 106.85468673706055
+    }
+  ],
+  "success_rate_pct": 20.0
+}

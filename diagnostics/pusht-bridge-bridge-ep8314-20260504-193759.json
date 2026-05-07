@@ -1,0 +1,113 @@
+{
+  "task": "pusht",
+  "episode": 8314,
+  "start": 3,
+  "cell": "A5",
+  "mode": "bridge",
+  "n_bridges": 10,
+  "n_db_episodes": 200,
+  "n_db_chunks": 3090,
+  "results": [
+    {
+      "seed": 1,
+      "success": true,
+      "wall_s": 85.17757821083069
+    },
+    {
+      "seed": 2,
+      "success": true,
+      "wall_s": 86.12827658653259
+    },
+    {
+      "seed": 3,
+      "success": false,
+      "wall_s": 94.35033106803894
+    },
+    {
+      "seed": 4,
+      "success": false,
+      "wall_s": 89.65030908584595
+    },
+    {
+      "seed": 5,
+      "success": false,
+      "wall_s": 83.59242296218872
+    },
+    {
+      "seed": 6,
+      "success": false,
+      "wall_s": 86.0066134929657
+    },
+    {
+      "seed": 7,
+      "success": true,
+      "wall_s": 87.44824147224426
+    },
+    {
+      "seed": 8,
+      "success": false,
+      "wall_s": 89.35894966125488
+    },
+    {
+      "seed": 9,
+      "success": false,
+      "wall_s": 87.2252995967865
+    },
+    {
+      "seed": 10,
+      "success": false,
+      "wall_s": 86.96825122833252
+    },
+    {
+      "seed": 11,
+      "success": false,
+      "wall_s": 80.62342381477356
+    },
+    {
+      "seed": 12,
+      "success": false,
+      "wall_s": 72.06650638580322
+    },
+    {
+      "seed": 13,
+      "success": true,
+      "wall_s": 101.24927592277527
+    },
+    {
+      "seed": 14,
+      "success": true,
+      "wall_s": 88.94450855255127
+    },
+    {
+      "seed": 15,
+      "success": false,
+      "wall_s": 85.76451516151428
+    },
+    {
+      "seed": 16,
+      "success": false,
+      "wall_s": 81.2083203792572
+    },
+    {
+      "seed": 17,
+      "success": false,
+      "wall_s": 80.20696258544922
+    },
+    {
+      "seed": 18,
+      "success": false,
+      "wall_s": 85.57571768760681
+    },
+    {
+      "seed": 19,
+      "success": true,
+      "wall_s": 83.29803681373596
+    },
+    {
+      "seed": 20,
+      "success": false,
+      "wall_s": 93.22432160377502
+    }
+  ],
+  "success_rate_pct": 30.0
+}

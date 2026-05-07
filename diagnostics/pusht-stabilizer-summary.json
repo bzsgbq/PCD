@@ -1,0 +1,60 @@
+{
+  "8314": {
+    "vanilla N=300": {
+      "k": 6,
+      "n": 20,
+      "wilson_ci": [
+        0.14547527396899385,
+        0.5189767762289793
+      ],
+      "src": "phase1/two_room_planner_ablation/diagnostics/pusht-seed-sweep-ep8314-20260504-180846.json"
+    },
+    "vanilla N=1000": {
+      "k": 18,
+      "n": 20,
+      "wilson_ci": [
+        0.6989617935882066,
+        0.9721341060158468
+      ],
+      "src": "phase1/two_room_planner_ablation/diagnostics/pusht-seed-sweep-ep8314-20260504-185414.json"
+    },
+    "AMB-topK no-same-ep": {
+      "k": 6,
+      "n": 20,
+      "wilson_ci": [
+        0.14547527396899385,
+        0.5189767762289793
+      ],
+      "src": "phase1/two_room_planner_ablation/diagnostics/pusht-bridge-bridge-ep8314-20260504-193759.json"
+    }
+  },
+  "14108": {
+    "vanilla N=300": {
+      "k": 2,
+      "n": 20,
+      "wilson_ci": [
+        0.027865893984153206,
+        0.30103820641179335
+      ],
+      "src": "phase1/two_room_planner_ablation/diagnostics/pusht-seed-sweep-ep14108-n300-20260504-200623.json"
+    },
+    "vanilla N=1000": {
+      "k": 2,
+      "n": 20,
+      "wilson_ci": [
+        0.027865893984153206,
+        0.30103820641179335
+      ],
+      "src": "phase1/two_room_planner_ablation/diagnostics/pusht-seed-sweep-ep14108-n1000-20260504-210645.json"
+    },
+    "AMB-topK no-same-ep": {
+      "k": 1,
+      "n": 20,
+      "wilson_ci": [
+        0.008881219432873136,
+        0.23613589351256675
+      ],
+      "src": "phase1/two_room_planner_ablation/diagnostics/pusht-bridge-bridge-ep14108-20260504-214619.json"
+    }
+  }
+}

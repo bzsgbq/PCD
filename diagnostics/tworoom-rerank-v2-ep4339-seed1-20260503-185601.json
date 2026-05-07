@@ -1,0 +1,1214 @@
+{
+  "task": "tworoom",
+  "episode": 4339,
+  "start": 22,
+  "cell": "A5",
+  "seed": 1,
+  "closed_loop_success": true,
+  "init_geo": 65.9408,
+  "init_eucl": 60.521697998046875,
+  "n_replay": 300,
+  "n_ok": 0,
+  "rows": [
+    {
+      "ci": 0,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 1,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 2,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 3,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 4,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 5,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 6,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 7,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 8,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 9,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 10,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 11,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 12,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 13,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 14,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 15,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 16,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 17,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 18,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 19,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 20,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 21,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 22,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 23,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 24,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 25,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 26,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 27,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 28,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 29,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 30,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 31,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 32,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 33,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 34,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 35,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 36,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 37,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 38,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 39,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 40,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 41,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 42,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 43,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 44,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 45,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 46,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 47,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 48,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 49,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 50,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 51,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 52,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 53,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 54,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 55,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 56,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 57,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 58,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 59,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 60,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 61,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 62,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 63,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 64,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 65,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 66,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 67,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 68,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 69,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 70,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 71,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 72,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 73,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 74,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 75,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 76,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 77,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 78,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 79,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 80,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 81,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 82,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 83,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 84,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 85,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 86,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 87,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 88,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 89,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 90,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 91,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 92,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 93,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 94,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 95,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 96,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 97,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 98,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 99,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 100,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 101,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 102,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 103,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 104,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 105,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 106,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 107,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 108,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 109,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 110,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 111,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 112,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 113,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 114,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 115,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 116,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 117,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 118,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 119,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 120,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 121,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 122,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 123,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 124,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 125,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 126,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 127,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 128,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 129,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 130,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 131,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 132,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 133,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 134,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 135,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 136,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 137,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 138,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 139,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 140,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 141,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 142,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 143,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 144,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 145,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 146,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 147,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 148,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 149,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 150,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 151,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 152,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 153,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 154,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 155,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 156,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 157,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 158,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 159,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 160,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 161,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 162,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 163,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 164,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 165,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 166,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 167,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 168,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 169,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 170,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 171,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 172,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 173,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 174,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 175,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 176,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 177,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 178,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 179,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 180,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 181,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 182,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 183,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 184,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 185,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 186,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 187,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 188,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 189,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 190,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 191,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 192,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 193,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 194,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 195,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 196,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 197,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 198,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 199,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 200,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 201,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 202,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 203,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 204,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 205,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 206,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 207,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 208,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 209,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 210,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 211,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 212,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 213,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 214,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 215,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 216,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 217,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 218,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 219,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 220,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 221,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 222,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 223,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 224,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 225,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 226,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 227,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 228,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 229,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 230,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 231,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 232,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 233,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 234,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 235,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 236,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 237,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 238,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 239,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 240,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 241,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 242,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 243,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 244,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 245,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 246,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 247,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 248,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 249,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 250,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 251,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 252,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 253,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 254,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 255,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 256,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 257,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 258,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 259,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 260,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 261,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 262,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 263,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 264,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 265,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 266,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 267,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 268,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 269,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 270,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 271,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 272,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 273,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 274,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 275,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 276,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 277,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 278,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 279,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 280,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 281,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 282,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 283,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 284,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 285,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 286,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 287,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 288,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 289,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 290,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 291,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 292,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 293,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 294,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 295,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 296,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 297,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 298,
+      "error": "only one element tensors can be converted to Python scalars"
+    },
+    {
+      "ci": 299,
+      "error": "only one element tensors can be converted to Python scalars"
+    }
+  ]
+}

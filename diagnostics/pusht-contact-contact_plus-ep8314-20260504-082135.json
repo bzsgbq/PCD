@@ -1,0 +1,38 @@
+{
+  "task": "pusht",
+  "episode": 8314,
+  "start": 3,
+  "cell": "A5",
+  "cost_variant": "contact_plus",
+  "lambda_c": 0.05,
+  "num_samples": 300,
+  "probe_train_pixel_err_mean": 25.57319450378418,
+  "results": [
+    {
+      "seed": 1,
+      "success": false,
+      "wall_s": 89.27154994010925
+    },
+    {
+      "seed": 2,
+      "success": false,
+      "wall_s": 107.91602301597595
+    },
+    {
+      "seed": 3,
+      "success": false,
+      "wall_s": 82.73919892311096
+    },
+    {
+      "seed": 4,
+      "success": false,
+      "wall_s": 74.7081184387207
+    },
+    {
+      "seed": 5,
+      "success": false,
+      "wall_s": 76.57905530929565
+    }
+  ],
+  "success_rate_pct": 0.0
+}

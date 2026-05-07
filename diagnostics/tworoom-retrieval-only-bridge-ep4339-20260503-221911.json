@@ -1,0 +1,53 @@
+{
+  "task": "tworoom",
+  "episode": 4339,
+  "start": 22,
+  "mode": "bridge",
+  "top_k_to_try": 10,
+  "exclude_eval_ep": false,
+  "results": [
+    {
+      "ci": 0,
+      "error": "Value [[ 99.5      104.311325]] is not contained in the Box space"
+    },
+    {
+      "ci": 1,
+      "error": "Value [[ 99.5      104.311325]] is not contained in the Box space"
+    },
+    {
+      "ci": 2,
+      "error": "Value [[ 99.5      104.311325]] is not contained in the Box space"
+    },
+    {
+      "ci": 3,
+      "error": "Value [[ 99.5      104.311325]] is not contained in the Box space"
+    },
+    {
+      "ci": 4,
+      "error": "Value [[ 99.5      104.311325]] is not contained in the Box space"
+    },
+    {
+      "ci": 5,
+      "error": "Value [[ 99.5      104.311325]] is not contained in the Box space"
+    },
+    {
+      "ci": 6,
+      "error": "Value [[ 99.5      104.311325]] is not contained in the Box space"
+    },
+    {
+      "ci": 7,
+      "error": "Value [[ 99.5      104.311325]] is not contained in the Box space"
+    },
+    {
+      "ci": 8,
+      "error": "Value [[ 99.5      104.311325]] is not contained in the Box space"
+    },
+    {
+      "ci": 9,
+      "error": "Value [[ 99.5      104.311325]] is not contained in the Box space"
+    }
+  ],
+  "n_success": 0,
+  "best_of_k_success": false,
+  "any_success_rate_pct": 0.0
+}

@@ -1,0 +1,263 @@
+{
+  "task": "tworoom",
+  "episode": 4339,
+  "start": 22,
+  "cell": "A5",
+  "mode": "random",
+  "n_bridges": 10,
+  "n_db_episodes": 200,
+  "n_db_chunks": 1813,
+  "results": [
+    {
+      "seed": 1,
+      "success": true,
+      "wall_s": 162.80377411842346
+    },
+    {
+      "seed": 2,
+      "success": false,
+      "wall_s": 172.47902536392212
+    },
+    {
+      "seed": 3,
+      "success": true,
+      "wall_s": 174.8985357284546
+    },
+    {
+      "seed": 4,
+      "success": true,
+      "wall_s": 159.22332644462585
+    },
+    {
+      "seed": 5,
+      "success": true,
+      "wall_s": 158.39384388923645
+    },
+    {
+      "seed": 6,
+      "success": true,
+      "wall_s": 138.62785077095032
+    },
+    {
+      "seed": 7,
+      "success": true,
+      "wall_s": 105.19857406616211
+    },
+    {
+      "seed": 8,
+      "success": true,
+      "wall_s": 108.52067470550537
+    },
+    {
+      "seed": 9,
+      "success": true,
+      "wall_s": 131.1921374797821
+    },
+    {
+      "seed": 10,
+      "success": false,
+      "wall_s": 123.5597460269928
+    },
+    {
+      "seed": 11,
+      "success": false,
+      "wall_s": 121.86886811256409
+    },
+    {
+      "seed": 12,
+      "success": true,
+      "wall_s": 135.50676035881042
+    },
+    {
+      "seed": 13,
+      "success": true,
+      "wall_s": 129.51611304283142
+    },
+    {
+      "seed": 14,
+      "success": true,
+      "wall_s": 131.01033759117126
+    },
+    {
+      "seed": 15,
+      "success": true,
+      "wall_s": 138.05024814605713
+    },
+    {
+      "seed": 16,
+      "success": true,
+      "wall_s": 116.80279541015625
+    },
+    {
+      "seed": 17,
+      "success": true,
+      "wall_s": 130.86451172828674
+    },
+    {
+      "seed": 18,
+      "success": true,
+      "wall_s": 115.47154331207275
+    },
+    {
+      "seed": 19,
+      "success": false,
+      "wall_s": 142.3946831226349
+    },
+    {
+      "seed": 20,
+      "success": false,
+      "wall_s": 128.47211575508118
+    },
+    {
+      "seed": 21,
+      "success": false,
+      "wall_s": 110.44920182228088
+    },
+    {
+      "seed": 22,
+      "success": false,
+      "wall_s": 138.8397078514099
+    },
+    {
+      "seed": 23,
+      "success": true,
+      "wall_s": 124.68015241622925
+    },
+    {
+      "seed": 24,
+      "success": true,
+      "wall_s": 116.05234479904175
+    },
+    {
+      "seed": 25,
+      "success": false,
+      "wall_s": 146.55126070976257
+    },
+    {
+      "seed": 26,
+      "success": true,
+      "wall_s": 119.54686379432678
+    },
+    {
+      "seed": 27,
+      "success": false,
+      "wall_s": 123.62317061424255
+    },
+    {
+      "seed": 28,
+      "success": true,
+      "wall_s": 133.21855664253235
+    },
+    {
+      "seed": 29,
+      "success": true,
+      "wall_s": 131.35047817230225
+    },
+    {
+      "seed": 30,
+      "success": true,
+      "wall_s": 145.05328392982483
+    },
+    {
+      "seed": 31,
+      "success": false,
+      "wall_s": 118.71563172340393
+    },
+    {
+      "seed": 32,
+      "success": false,
+      "wall_s": 114.82664608955383
+    },
+    {
+      "seed": 33,
+      "success": true,
+      "wall_s": 143.98004841804504
+    },
+    {
+      "seed": 34,
+      "success": false,
+      "wall_s": 110.09182143211365
+    },
+    {
+      "seed": 35,
+      "success": true,
+      "wall_s": 132.58046650886536
+    },
+    {
+      "seed": 36,
+      "success": true,
+      "wall_s": 130.7636420726776
+    },
+    {
+      "seed": 37,
+      "success": false,
+      "wall_s": 122.55871272087097
+    },
+    {
+      "seed": 38,
+      "success": true,
+      "wall_s": 101.4397304058075
+    },
+    {
+      "seed": 39,
+      "success": true,
+      "wall_s": 121.60363006591797
+    },
+    {
+      "seed": 40,
+      "success": true,
+      "wall_s": 130.8320529460907
+    },
+    {
+      "seed": 41,
+      "success": false,
+      "wall_s": 118.2873899936676
+    },
+    {
+      "seed": 42,
+      "success": false,
+      "wall_s": 111.29106211662292
+    },
+    {
+      "seed": 43,
+      "success": true,
+      "wall_s": 142.0182650089264
+    },
+    {
+      "seed": 44,
+      "success": true,
+      "wall_s": 106.18763041496277
+    },
+    {
+      "seed": 45,
+      "success": false,
+      "wall_s": 111.58046436309814
+    },
+    {
+      "seed": 46,
+      "success": true,
+      "wall_s": 133.83245420455933
+    },
+    {
+      "seed": 47,
+      "success": false,
+      "wall_s": 132.71788215637207
+    },
+    {
+      "seed": 48,
+      "success": true,
+      "wall_s": 112.10575079917908
+    },
+    {
+      "seed": 49,
+      "success": true,
+      "wall_s": 139.39710569381714
+    },
+    {
+      "seed": 50,
+      "success": true,
+      "wall_s": 131.2865948677063
+    }
+  ],
+  "success_rate_pct": 66.0
+}

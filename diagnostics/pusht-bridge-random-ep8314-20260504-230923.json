@@ -1,0 +1,113 @@
+{
+  "task": "pusht",
+  "episode": 8314,
+  "start": 3,
+  "cell": "A5",
+  "mode": "random",
+  "n_bridges": 10,
+  "n_db_episodes": 200,
+  "n_db_chunks": 3090,
+  "results": [
+    {
+      "seed": 1,
+      "success": false,
+      "wall_s": 71.50962543487549
+    },
+    {
+      "seed": 2,
+      "success": true,
+      "wall_s": 79.29827523231506
+    },
+    {
+      "seed": 3,
+      "success": false,
+      "wall_s": 80.8575987815857
+    },
+    {
+      "seed": 4,
+      "success": false,
+      "wall_s": 72.65375280380249
+    },
+    {
+      "seed": 5,
+      "success": false,
+      "wall_s": 67.58184933662415
+    },
+    {
+      "seed": 6,
+      "success": false,
+      "wall_s": 65.11548113822937
+    },
+    {
+      "seed": 7,
+      "success": true,
+      "wall_s": 75.22790503501892
+    },
+    {
+      "seed": 8,
+      "success": false,
+      "wall_s": 63.91559171676636
+    },
+    {
+      "seed": 9,
+      "success": true,
+      "wall_s": 60.62604117393494
+    },
+    {
+      "seed": 10,
+      "success": false,
+      "wall_s": 56.79318976402283
+    },
+    {
+      "seed": 11,
+      "success": true,
+      "wall_s": 59.03624105453491
+    },
+    {
+      "seed": 12,
+      "success": false,
+      "wall_s": 80.5709924697876
+    },
+    {
+      "seed": 13,
+      "success": true,
+      "wall_s": 78.66570162773132
+    },
+    {
+      "seed": 14,
+      "success": false,
+      "wall_s": 69.64297938346863
+    },
+    {
+      "seed": 15,
+      "success": false,
+      "wall_s": 74.49057960510254
+    },
+    {
+      "seed": 16,
+      "success": true,
+      "wall_s": 70.4609055519104
+    },
+    {
+      "seed": 17,
+      "success": false,
+      "wall_s": 80.318204164505
+    },
+    {
+      "seed": 18,
+      "success": false,
+      "wall_s": 80.11008810997009
+    },
+    {
+      "seed": 19,
+      "success": true,
+      "wall_s": 87.39918375015259
+    },
+    {
+      "seed": 20,
+      "success": false,
+      "wall_s": 119.58758497238159
+    }
+  ],
+  "success_rate_pct": 35.0
+}

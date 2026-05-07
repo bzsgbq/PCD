@@ -1,0 +1,113 @@
+{
+  "task": "pusht",
+  "episode": 14108,
+  "start": 61,
+  "cell": "A5",
+  "mode": "bridge",
+  "n_bridges": 10,
+  "n_db_episodes": 200,
+  "n_db_chunks": 3090,
+  "results": [
+    {
+      "seed": 1,
+      "success": false,
+      "wall_s": 81.43954920768738
+    },
+    {
+      "seed": 2,
+      "success": false,
+      "wall_s": 96.12371969223022
+    },
+    {
+      "seed": 3,
+      "success": false,
+      "wall_s": 81.39473271369934
+    },
+    {
+      "seed": 4,
+      "success": false,
+      "wall_s": 84.68644499778748
+    },
+    {
+      "seed": 5,
+      "success": false,
+      "wall_s": 91.44672584533691
+    },
+    {
+      "seed": 6,
+      "success": false,
+      "wall_s": 93.25382089614868
+    },
+    {
+      "seed": 7,
+      "success": false,
+      "wall_s": 93.10914158821106
+    },
+    {
+      "seed": 8,
+      "success": false,
+      "wall_s": 85.47543525695801
+    },
+    {
+      "seed": 9,
+      "success": false,
+      "wall_s": 85.3899290561676
+    },
+    {
+      "seed": 10,
+      "success": false,
+      "wall_s": 94.50746130943298
+    },
+    {
+      "seed": 11,
+      "success": false,
+      "wall_s": 89.96768689155579
+    },
+    {
+      "seed": 12,
+      "success": false,
+      "wall_s": 96.50954174995422
+    },
+    {
+      "seed": 13,
+      "success": false,
+      "wall_s": 98.85857510566711
+    },
+    {
+      "seed": 14,
+      "success": true,
+      "wall_s": 93.30269503593445
+    },
+    {
+      "seed": 15,
+      "success": false,
+      "wall_s": 90.68585586547852
+    },
+    {
+      "seed": 16,
+      "success": false,
+      "wall_s": 96.17385149002075
+    },
+    {
+      "seed": 17,
+      "success": false,
+      "wall_s": 96.80235409736633
+    },
+    {
+      "seed": 18,
+      "success": false,
+      "wall_s": 90.72531986236572
+    },
+    {
+      "seed": 19,
+      "success": false,
+      "wall_s": 73.63856172561646
+    },
+    {
+      "seed": 20,
+      "success": false,
+      "wall_s": 93.2257330417633
+    }
+  ],
+  "success_rate_pct": 5.0
+}

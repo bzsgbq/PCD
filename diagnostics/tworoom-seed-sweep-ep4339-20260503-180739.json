@@ -1,0 +1,30 @@
+{
+  "task": "tworoom",
+  "episode": 4339,
+  "start": 22,
+  "cell": "A5",
+  "seeds": [
+    1,
+    2,
+    3
+  ],
+  "results": [
+    {
+      "seed": 1,
+      "success": true,
+      "wall_s": 669.4586222171783
+    },
+    {
+      "seed": 2,
+      "success": true,
+      "wall_s": 663.8377621173859
+    },
+    {
+      "seed": 3,
+      "success": true,
+      "wall_s": 584.5223338603973
+    }
+  ],
+  "success_count": 3,
+  "success_rate_pct": 100.0
+}

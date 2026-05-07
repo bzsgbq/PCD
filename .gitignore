@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+.pytest_cache/
+
+# LaTeX build artefacts
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+paper/submission/main.pdf
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Local results not part of release
+phase1/
+outputs/
+checkpoints/
+logs/

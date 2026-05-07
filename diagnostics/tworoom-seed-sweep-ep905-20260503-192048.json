@@ -1,0 +1,42 @@
+{
+  "task": "tworoom",
+  "episode": 905,
+  "start": 19,
+  "cell": "A5",
+  "seeds": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "results": [
+    {
+      "seed": 1,
+      "success": true,
+      "wall_s": 167.60627007484436
+    },
+    {
+      "seed": 2,
+      "success": true,
+      "wall_s": 167.83509635925293
+    },
+    {
+      "seed": 3,
+      "success": false,
+      "wall_s": 141.83056354522705
+    },
+    {
+      "seed": 4,
+      "success": true,
+      "wall_s": 154.85170364379883
+    },
+    {
+      "seed": 5,
+      "success": true,
+      "wall_s": 167.89404678344727
+    }
+  ],
+  "success_count": 4,
+  "success_rate_pct": 80.0
+}

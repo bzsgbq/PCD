@@ -1,0 +1,63 @@
+{
+  "task": "tworoom",
+  "episode": 4339,
+  "start": 22,
+  "cell": "A5",
+  "mode": "bridge",
+  "n_bridges": 10,
+  "n_db_episodes": 200,
+  "n_db_chunks": 1813,
+  "results": [
+    {
+      "seed": 1,
+      "success": true,
+      "wall_s": 165.4098584651947
+    },
+    {
+      "seed": 2,
+      "success": true,
+      "wall_s": 181.1655912399292
+    },
+    {
+      "seed": 3,
+      "success": true,
+      "wall_s": 177.80160450935364
+    },
+    {
+      "seed": 4,
+      "success": true,
+      "wall_s": 171.45979952812195
+    },
+    {
+      "seed": 5,
+      "success": true,
+      "wall_s": 171.92436361312866
+    },
+    {
+      "seed": 6,
+      "success": true,
+      "wall_s": 184.42978310585022
+    },
+    {
+      "seed": 7,
+      "success": true,
+      "wall_s": 187.17409348487854
+    },
+    {
+      "seed": 8,
+      "success": true,
+      "wall_s": 173.4523561000824
+    },
+    {
+      "seed": 9,
+      "success": true,
+      "wall_s": 194.58929252624512
+    },
+    {
+      "seed": 10,
+      "success": false,
+      "wall_s": 194.18572211265564
+    }
+  ],
+  "success_rate_pct": 90.0
+}

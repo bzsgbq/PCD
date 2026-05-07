@@ -1,0 +1,91 @@
+{
+  "task": "reacher",
+  "cell": "A0_official",
+  "config": "Hydra le-wm/eval.py via eval_no_video.py wrapper",
+  "num_eval": 50,
+  "solver_batch_size": 1,
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    42
+  ],
+  "per_seed": [
+    {
+      "seed": 0,
+      "k": 44,
+      "n": 50,
+      "rate_pct": 88.0,
+      "wilson_ci": [
+        76,
+        94
+      ]
+    },
+    {
+      "seed": 1,
+      "k": 42,
+      "n": 50,
+      "rate_pct": 84.0,
+      "wilson_ci": [
+        71,
+        92
+      ]
+    },
+    {
+      "seed": 2,
+      "k": 42,
+      "n": 50,
+      "rate_pct": 84.0,
+      "wilson_ci": [
+        71,
+        92
+      ]
+    },
+    {
+      "seed": 3,
+      "k": 46,
+      "n": 50,
+      "rate_pct": 92.0,
+      "wilson_ci": [
+        81,
+        97
+      ]
+    },
+    {
+      "seed": 42,
+      "k": 38,
+      "n": 50,
+      "rate_pct": 76.0,
+      "wilson_ci": [
+        63,
+        86
+      ]
+    }
+  ],
+  "summary": {
+    "mean_pct_n5": 84.8,
+    "std_pct_n5": 5.9,
+    "median_pct_n5": 84.0,
+    "min_pct": 76.0,
+    "max_pct": 92.0,
+    "pooled": {
+      "k": 212,
+      "n": 250,
+      "rate_pct": 84.8,
+      "wilson_ci": [
+        79.8,
+        88.7
+      ]
+    },
+    "excluding_seed42": {
+      "mean_pct_n4": 87.0,
+      "std_pct_n4": 3.8
+    },
+    "seed42_zscore_vs_others": -2.87,
+    "any_seed_at_43_50": false,
+    "paper_reported": 86.0
+  },
+  "note": "Hydra cfg.seed varies BOTH eval-set sampler and CEM solver seed (solver/cem.yaml: seed: ${seed}).",
+  "timestamp": "20260505-224155"
+}

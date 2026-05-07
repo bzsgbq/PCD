@@ -1,0 +1,1024 @@
+{
+  "grid": "Path-2 4-task perturbation grid (Codex 086)",
+  "config": "--solver_batch_size 1, num_eval=50; tworoom seed=42 ran serial; pusht/cube seed=42 + reacher seeds {0,1,2,3,42} ran in parallel across 4 GPUs (one grid worker per GPU; pre-existing host jobs left untouched).",
+  "wall_clock": "TwoRoom: ~3.6h serial. Parallel grid: 6h 52m wall (start 02:05, end 08:57 UTC 2026-05-06).",
+  "wilson_ci_schema": "[lower_pct, upper_pct]",
+  "tasks": {
+    "tworoom": {
+      "seed": 42,
+      "solver_seed": 42,
+      "num_eval": 50,
+      "solver_batch_size": 1,
+      "results_dir": "results/tworoom-20260506-012827",
+      "log_file": "logs/grid_tworoom_seed42.log",
+      "gpu_assignment": "(serial, single-GPU)",
+      "cells": {
+        "A0": {
+          "k": 44,
+          "n": 50,
+          "rate_pct": 88,
+          "wilson_ci": [
+            76.2,
+            94.4
+          ]
+        },
+        "A1": {
+          "k": 29,
+          "n": 50,
+          "rate_pct": 58,
+          "wilson_ci": [
+            44.2,
+            70.6
+          ]
+        },
+        "A2": {
+          "k": 43,
+          "n": 50,
+          "rate_pct": 86,
+          "wilson_ci": [
+            73.8,
+            93.0
+          ]
+        },
+        "A3": {
+          "k": 43,
+          "n": 50,
+          "rate_pct": 86,
+          "wilson_ci": [
+            73.8,
+            93.0
+          ]
+        },
+        "A4": {
+          "k": 43,
+          "n": 50,
+          "rate_pct": 86,
+          "wilson_ci": [
+            73.8,
+            93.0
+          ]
+        },
+        "A5": {
+          "k": 47,
+          "n": 50,
+          "rate_pct": 94,
+          "wilson_ci": [
+            83.8,
+            97.9
+          ]
+        },
+        "A0_H10": {
+          "k": 21,
+          "n": 50,
+          "rate_pct": 42,
+          "wilson_ci": [
+            29.4,
+            55.8
+          ]
+        },
+        "A2_H10": {
+          "k": 45,
+          "n": 50,
+          "rate_pct": 90,
+          "wilson_ci": [
+            78.6,
+            95.7
+          ]
+        }
+      }
+    },
+    "pusht": {
+      "seed": 42,
+      "solver_seed": 42,
+      "num_eval": 50,
+      "solver_batch_size": 1,
+      "results_dir": "results/pusht-20260506-052842",
+      "log_file": "logs/grid_pusht_seed42_gpu0.log",
+      "gpu_assignment": "GPU 0",
+      "cells": {
+        "A0": {
+          "k": 48,
+          "n": 50,
+          "rate_pct": 96,
+          "wilson_ci": [
+            86.5,
+            98.9
+          ]
+        },
+        "A1": {
+          "k": 7,
+          "n": 50,
+          "rate_pct": 14,
+          "wilson_ci": [
+            7.0,
+            26.2
+          ]
+        },
+        "A2": {
+          "k": 42,
+          "n": 50,
+          "rate_pct": 84,
+          "wilson_ci": [
+            71.5,
+            91.7
+          ]
+        },
+        "A3": {
+          "k": 41,
+          "n": 50,
+          "rate_pct": 82,
+          "wilson_ci": [
+            69.2,
+            90.2
+          ]
+        },
+        "A4": {
+          "k": 40,
+          "n": 50,
+          "rate_pct": 80,
+          "wilson_ci": [
+            67.0,
+            88.8
+          ]
+        },
+        "A5": {
+          "k": 41,
+          "n": 50,
+          "rate_pct": 82,
+          "wilson_ci": [
+            69.2,
+            90.2
+          ]
+        },
+        "A0_H10": {
+          "k": 3,
+          "n": 50,
+          "rate_pct": 6,
+          "wilson_ci": [
+            2.1,
+            16.2
+          ]
+        },
+        "A2_H10": {
+          "k": 42,
+          "n": 50,
+          "rate_pct": 84,
+          "wilson_ci": [
+            71.5,
+            91.7
+          ]
+        }
+      }
+    },
+    "cube": {
+      "seed": 42,
+      "solver_seed": 42,
+      "num_eval": 50,
+      "solver_batch_size": 1,
+      "results_dir": "results/cube-20260506-054033",
+      "log_file": "logs/grid_cube_seed42_gpu1.log",
+      "gpu_assignment": "GPU 1",
+      "cells": {
+        "A0": {
+          "k": 37,
+          "n": 50,
+          "rate_pct": 74,
+          "wilson_ci": [
+            60.4,
+            84.1
+          ]
+        },
+        "A1": {
+          "k": 29,
+          "n": 50,
+          "rate_pct": 58,
+          "wilson_ci": [
+            44.2,
+            70.6
+          ]
+        },
+        "A2": {
+          "k": 34,
+          "n": 50,
+          "rate_pct": 68,
+          "wilson_ci": [
+            54.2,
+            79.2
+          ]
+        },
+        "A3": {
+          "k": 38,
+          "n": 50,
+          "rate_pct": 76,
+          "wilson_ci": [
+            62.6,
+            85.7
+          ]
+        },
+        "A4": {
+          "k": 40,
+          "n": 50,
+          "rate_pct": 80,
+          "wilson_ci": [
+            67.0,
+            88.8
+          ]
+        },
+        "A5": {
+          "k": 40,
+          "n": 50,
+          "rate_pct": 80,
+          "wilson_ci": [
+            67.0,
+            88.8
+          ]
+        },
+        "A0_H10": {
+          "k": 27,
+          "n": 50,
+          "rate_pct": 54,
+          "wilson_ci": [
+            40.4,
+            67.0
+          ]
+        },
+        "A2_H10": {
+          "k": 34,
+          "n": 50,
+          "rate_pct": 68,
+          "wilson_ci": [
+            54.2,
+            79.2
+          ]
+        }
+      }
+    },
+    "reacher_seed0": {
+      "seed": 0,
+      "solver_seed": 0,
+      "num_eval": 50,
+      "solver_batch_size": 1,
+      "results_dir": "results/reacher-20260506-053116",
+      "log_file": "logs/grid_reacher_seed0_gpu2.log",
+      "gpu_assignment": "GPU 2",
+      "cells": {
+        "A0": {
+          "k": 44,
+          "n": 50,
+          "rate_pct": 88,
+          "wilson_ci": [
+            76.2,
+            94.4
+          ]
+        },
+        "A1": {
+          "k": 19,
+          "n": 50,
+          "rate_pct": 38,
+          "wilson_ci": [
+            25.9,
+            51.8
+          ]
+        },
+        "A2": {
+          "k": 50,
+          "n": 50,
+          "rate_pct": 100,
+          "wilson_ci": [
+            92.9,
+            100
+          ]
+        },
+        "A3": {
+          "k": 50,
+          "n": 50,
+          "rate_pct": 100,
+          "wilson_ci": [
+            92.9,
+            100
+          ]
+        },
+        "A4": {
+          "k": 50,
+          "n": 50,
+          "rate_pct": 100,
+          "wilson_ci": [
+            92.9,
+            100
+          ]
+        },
+        "A5": {
+          "k": 50,
+          "n": 50,
+          "rate_pct": 100,
+          "wilson_ci": [
+            92.9,
+            100
+          ]
+        },
+        "A0_H10": {
+          "k": 12,
+          "n": 50,
+          "rate_pct": 24,
+          "wilson_ci": [
+            14.3,
+            37.4
+          ]
+        },
+        "A2_H10": {
+          "k": 50,
+          "n": 50,
+          "rate_pct": 100,
+          "wilson_ci": [
+            92.9,
+            100
+          ]
+        }
+      }
+    },
+    "reacher_seed1": {
+      "seed": 1,
+      "solver_seed": 1,
+      "num_eval": 50,
+      "solver_batch_size": 1,
+      "results_dir": "results/reacher-20260506-053701",
+      "log_file": "logs/grid_reacher_seed1_gpu3.log",
+      "gpu_assignment": "GPU 3",
+      "cells": {
+        "A0": {
+          "k": 42,
+          "n": 50,
+          "rate_pct": 84,
+          "wilson_ci": [
+            71.5,
+            91.7
+          ]
+        },
+        "A1": {
+          "k": 17,
+          "n": 50,
+          "rate_pct": 34,
+          "wilson_ci": [
+            22.4,
+            47.8
+          ]
+        },
+        "A2": {
+          "k": 50,
+          "n": 50,
+          "rate_pct": 100,
+          "wilson_ci": [
+            92.9,
+            100
+          ]
+        },
+        "A3": {
+          "k": 49,
+          "n": 50,
+          "rate_pct": 98,
+          "wilson_ci": [
+            89.5,
+            99.6
+          ]
+        },
+        "A4": {
+          "k": 49,
+          "n": 50,
+          "rate_pct": 98,
+          "wilson_ci": [
+            89.5,
+            99.6
+          ]
+        },
+        "A5": {
+          "k": 50,
+          "n": 50,
+          "rate_pct": 100,
+          "wilson_ci": [
+            92.9,
+            100
+          ]
+        },
+        "A0_H10": {
+          "k": 12,
+          "n": 50,
+          "rate_pct": 24,
+          "wilson_ci": [
+            14.3,
+            37.4
+          ]
+        },
+        "A2_H10": {
+          "k": 50,
+          "n": 50,
+          "rate_pct": 100,
+          "wilson_ci": [
+            92.9,
+            100
+          ]
+        }
+      }
+    },
+    "reacher_seed2": {
+      "seed": 2,
+      "solver_seed": 2,
+      "num_eval": 50,
+      "solver_batch_size": 1,
+      "results_dir": "results/reacher-20260506-085210",
+      "log_file": "logs/grid_reacher_seed2_gpu0.log",
+      "gpu_assignment": "GPU 0",
+      "cells": {
+        "A0": {
+          "k": 42,
+          "n": 50,
+          "rate_pct": 84,
+          "wilson_ci": [
+            71.5,
+            91.7
+          ]
+        },
+        "A1": {
+          "k": 12,
+          "n": 50,
+          "rate_pct": 24,
+          "wilson_ci": [
+            14.3,
+            37.4
+          ]
+        },
+        "A2": {
+          "k": 50,
+          "n": 50,
+          "rate_pct": 100,
+          "wilson_ci": [
+            92.9,
+            100
+          ]
+        },
+        "A3": {
+          "k": 50,
+          "n": 50,
+          "rate_pct": 100,
+          "wilson_ci": [
+            92.9,
+            100
+          ]
+        },
+        "A4": {
+          "k": 50,
+          "n": 50,
+          "rate_pct": 100,
+          "wilson_ci": [
+            92.9,
+            100
+          ]
+        },
+        "A5": {
+          "k": 50,
+          "n": 50,
+          "rate_pct": 100,
+          "wilson_ci": [
+            92.9,
+            100
+          ]
+        },
+        "A0_H10": {
+          "k": 13,
+          "n": 50,
+          "rate_pct": 26,
+          "wilson_ci": [
+            15.9,
+            39.6
+          ]
+        },
+        "A2_H10": {
+          "k": 50,
+          "n": 50,
+          "rate_pct": 100,
+          "wilson_ci": [
+            92.9,
+            100
+          ]
+        }
+      }
+    },
+    "reacher_seed3": {
+      "seed": 3,
+      "solver_seed": 3,
+      "num_eval": 50,
+      "solver_batch_size": 1,
+      "results_dir": "results/reacher-20260506-085746",
+      "log_file": "logs/grid_reacher_seed3_gpu1.log",
+      "gpu_assignment": "GPU 1",
+      "cells": {
+        "A0": {
+          "k": 46,
+          "n": 50,
+          "rate_pct": 92,
+          "wilson_ci": [
+            81.2,
+            96.8
+          ]
+        },
+        "A1": {
+          "k": 22,
+          "n": 50,
+          "rate_pct": 44,
+          "wilson_ci": [
+            31.2,
+            57.7
+          ]
+        },
+        "A2": {
+          "k": 50,
+          "n": 50,
+          "rate_pct": 100,
+          "wilson_ci": [
+            92.9,
+            100
+          ]
+        },
+        "A3": {
+          "k": 50,
+          "n": 50,
+          "rate_pct": 100,
+          "wilson_ci": [
+            92.9,
+            100
+          ]
+        },
+        "A4": {
+          "k": 50,
+          "n": 50,
+          "rate_pct": 100,
+          "wilson_ci": [
+            92.9,
+            100
+          ]
+        },
+        "A5": {
+          "k": 49,
+          "n": 50,
+          "rate_pct": 98,
+          "wilson_ci": [
+            89.5,
+            99.6
+          ]
+        },
+        "A0_H10": {
+          "k": 8,
+          "n": 50,
+          "rate_pct": 16,
+          "wilson_ci": [
+            8.3,
+            28.5
+          ]
+        },
+        "A2_H10": {
+          "k": 50,
+          "n": 50,
+          "rate_pct": 100,
+          "wilson_ci": [
+            92.9,
+            100
+          ]
+        }
+      }
+    },
+    "reacher_seed42": {
+      "seed": 42,
+      "solver_seed": 42,
+      "num_eval": 50,
+      "solver_batch_size": 1,
+      "results_dir": "results/reacher-20260506-085610",
+      "log_file": "logs/grid_reacher_seed42_gpu2.log",
+      "gpu_assignment": "GPU 2",
+      "cells": {
+        "A0": {
+          "k": 38,
+          "n": 50,
+          "rate_pct": 76,
+          "wilson_ci": [
+            62.6,
+            85.7
+          ]
+        },
+        "A1": {
+          "k": 22,
+          "n": 50,
+          "rate_pct": 44,
+          "wilson_ci": [
+            31.2,
+            57.7
+          ]
+        },
+        "A2": {
+          "k": 49,
+          "n": 50,
+          "rate_pct": 98,
+          "wilson_ci": [
+            89.5,
+            99.6
+          ]
+        },
+        "A3": {
+          "k": 49,
+          "n": 50,
+          "rate_pct": 98,
+          "wilson_ci": [
+            89.5,
+            99.6
+          ]
+        },
+        "A4": {
+          "k": 49,
+          "n": 50,
+          "rate_pct": 98,
+          "wilson_ci": [
+            89.5,
+            99.6
+          ]
+        },
+        "A5": {
+          "k": 50,
+          "n": 50,
+          "rate_pct": 100,
+          "wilson_ci": [
+            92.9,
+            100
+          ]
+        },
+        "A0_H10": {
+          "k": 10,
+          "n": 50,
+          "rate_pct": 20,
+          "wilson_ci": [
+            11.2,
+            33.0
+          ]
+        },
+        "A2_H10": {
+          "k": 50,
+          "n": 50,
+          "rate_pct": 100,
+          "wilson_ci": [
+            92.9,
+            100
+          ]
+        }
+      }
+    }
+  },
+  "reacher_5seed_matrix": {
+    "A0": {
+      "per_seed": {
+        "0": {
+          "k": 44,
+          "n": 50,
+          "rate_pct": 88
+        },
+        "1": {
+          "k": 42,
+          "n": 50,
+          "rate_pct": 84
+        },
+        "2": {
+          "k": 42,
+          "n": 50,
+          "rate_pct": 84
+        },
+        "3": {
+          "k": 46,
+          "n": 50,
+          "rate_pct": 92
+        },
+        "42": {
+          "k": 38,
+          "n": 50,
+          "rate_pct": 76
+        }
+      },
+      "mean_pct": 84.8,
+      "std_pct": 5.9,
+      "pooled": {
+        "k": 212,
+        "n": 250,
+        "rate_pct": 84.8,
+        "wilson_ci": [
+          79.8,
+          88.7
+        ]
+      }
+    },
+    "A1": {
+      "per_seed": {
+        "0": {
+          "k": 19,
+          "n": 50,
+          "rate_pct": 38
+        },
+        "1": {
+          "k": 17,
+          "n": 50,
+          "rate_pct": 34
+        },
+        "2": {
+          "k": 12,
+          "n": 50,
+          "rate_pct": 24
+        },
+        "3": {
+          "k": 22,
+          "n": 50,
+          "rate_pct": 44
+        },
+        "42": {
+          "k": 22,
+          "n": 50,
+          "rate_pct": 44
+        }
+      },
+      "mean_pct": 36.8,
+      "std_pct": 8.3,
+      "pooled": {
+        "k": 92,
+        "n": 250,
+        "rate_pct": 36.8,
+        "wilson_ci": [
+          31.1,
+          42.9
+        ]
+      }
+    },
+    "A2": {
+      "per_seed": {
+        "0": {
+          "k": 50,
+          "n": 50,
+          "rate_pct": 100
+        },
+        "1": {
+          "k": 50,
+          "n": 50,
+          "rate_pct": 100
+        },
+        "2": {
+          "k": 50,
+          "n": 50,
+          "rate_pct": 100
+        },
+        "3": {
+          "k": 50,
+          "n": 50,
+          "rate_pct": 100
+        },
+        "42": {
+          "k": 49,
+          "n": 50,
+          "rate_pct": 98
+        }
+      },
+      "mean_pct": 99.6,
+      "std_pct": 0.9,
+      "pooled": {
+        "k": 249,
+        "n": 250,
+        "rate_pct": 99.6,
+        "wilson_ci": [
+          97.8,
+          99.9
+        ]
+      }
+    },
+    "A3": {
+      "per_seed": {
+        "0": {
+          "k": 50,
+          "n": 50,
+          "rate_pct": 100
+        },
+        "1": {
+          "k": 49,
+          "n": 50,
+          "rate_pct": 98
+        },
+        "2": {
+          "k": 50,
+          "n": 50,
+          "rate_pct": 100
+        },
+        "3": {
+          "k": 50,
+          "n": 50,
+          "rate_pct": 100
+        },
+        "42": {
+          "k": 49,
+          "n": 50,
+          "rate_pct": 98
+        }
+      },
+      "mean_pct": 99.2,
+      "std_pct": 1.1,
+      "pooled": {
+        "k": 248,
+        "n": 250,
+        "rate_pct": 99.2,
+        "wilson_ci": [
+          97.1,
+          99.8
+        ]
+      }
+    },
+    "A4": {
+      "per_seed": {
+        "0": {
+          "k": 50,
+          "n": 50,
+          "rate_pct": 100
+        },
+        "1": {
+          "k": 49,
+          "n": 50,
+          "rate_pct": 98
+        },
+        "2": {
+          "k": 50,
+          "n": 50,
+          "rate_pct": 100
+        },
+        "3": {
+          "k": 50,
+          "n": 50,
+          "rate_pct": 100
+        },
+        "42": {
+          "k": 49,
+          "n": 50,
+          "rate_pct": 98
+        }
+      },
+      "mean_pct": 99.2,
+      "std_pct": 1.1,
+      "pooled": {
+        "k": 248,
+        "n": 250,
+        "rate_pct": 99.2,
+        "wilson_ci": [
+          97.1,
+          99.8
+        ]
+      }
+    },
+    "A5": {
+      "per_seed": {
+        "0": {
+          "k": 50,
+          "n": 50,
+          "rate_pct": 100
+        },
+        "1": {
+          "k": 50,
+          "n": 50,
+          "rate_pct": 100
+        },
+        "2": {
+          "k": 50,
+          "n": 50,
+          "rate_pct": 100
+        },
+        "3": {
+          "k": 49,
+          "n": 50,
+          "rate_pct": 98
+        },
+        "42": {
+          "k": 50,
+          "n": 50,
+          "rate_pct": 100
+        }
+      },
+      "mean_pct": 99.6,
+      "std_pct": 0.9,
+      "pooled": {
+        "k": 249,
+        "n": 250,
+        "rate_pct": 99.6,
+        "wilson_ci": [
+          97.8,
+          99.9
+        ]
+      }
+    },
+    "A0_H10": {
+      "per_seed": {
+        "0": {
+          "k": 12,
+          "n": 50,
+          "rate_pct": 24
+        },
+        "1": {
+          "k": 12,
+          "n": 50,
+          "rate_pct": 24
+        },
+        "2": {
+          "k": 13,
+          "n": 50,
+          "rate_pct": 26
+        },
+        "3": {
+          "k": 8,
+          "n": 50,
+          "rate_pct": 16
+        },
+        "42": {
+          "k": 10,
+          "n": 50,
+          "rate_pct": 20
+        }
+      },
+      "mean_pct": 22.0,
+      "std_pct": 4.0,
+      "pooled": {
+        "k": 55,
+        "n": 250,
+        "rate_pct": 22.0,
+        "wilson_ci": [
+          17.3,
+          27.5
+        ]
+      }
+    },
+    "A2_H10": {
+      "per_seed": {
+        "0": {
+          "k": 50,
+          "n": 50,
+          "rate_pct": 100
+        },
+        "1": {
+          "k": 50,
+          "n": 50,
+          "rate_pct": 100
+        },
+        "2": {
+          "k": 50,
+          "n": 50,
+          "rate_pct": 100
+        },
+        "3": {
+          "k": 50,
+          "n": 50,
+          "rate_pct": 100
+        },
+        "42": {
+          "k": 50,
+          "n": 50,
+          "rate_pct": 100
+        }
+      },
+      "mean_pct": 100.0,
+      "std_pct": 0.0,
+      "pooled": {
+        "k": 250,
+        "n": 250,
+        "rate_pct": 100.0,
+        "wilson_ci": [
+          98.5,
+          100
+        ]
+      }
+    }
+  },
+  "reacher_a0_sanity_check_vs_hydra": {
+    "0": {
+      "grid_a0_kn": "44/50",
+      "hydra_anchor_kn": "44/50",
+      "match": true
+    },
+    "1": {
+      "grid_a0_kn": "42/50",
+      "hydra_anchor_kn": "42/50",
+      "match": true
+    },
+    "2": {
+      "grid_a0_kn": "42/50",
+      "hydra_anchor_kn": "42/50",
+      "match": true
+    },
+    "3": {
+      "grid_a0_kn": "46/50",
+      "hydra_anchor_kn": "46/50",
+      "match": true
+    },
+    "42": {
+      "grid_a0_kn": "38/50",
+      "hydra_anchor_kn": "38/50",
+      "match": true
+    }
+  },
+  "all_5_anchors_match": true,
+  "timestamp": "20260506-091018",
+  "last_revision": "Fix Codex 106 provenance swap on reacher_seed3/seed42 result_dirs and log_files; standardize wilson_ci schema to [lower_pct, upper_pct]."
+}
